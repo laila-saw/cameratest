@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cameratest/static/css/main.f19d1428.css",
-    "main.js": "/cameratest/static/js/main.6c09b755.js",
+    "main.css": "/cameratest/static/css/main.c0376736.css",
+    "main.js": "/cameratest/static/js/main.8789a646.js",
     "index.html": "/cameratest/index.html",
-    "main.f19d1428.css.map": "/cameratest/static/css/main.f19d1428.css.map",
-    "main.6c09b755.js.map": "/cameratest/static/js/main.6c09b755.js.map"
+    "main.c0376736.css.map": "/cameratest/static/css/main.c0376736.css.map",
+    "main.8789a646.js.map": "/cameratest/static/js/main.8789a646.js.map"
   },
   "entrypoints": [
-    "static/css/main.f19d1428.css",
-    "static/js/main.6c09b755.js"
+    "static/css/main.c0376736.css",
+    "static/js/main.8789a646.js"
   ]
 }
